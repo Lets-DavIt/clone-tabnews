@@ -1,2 +1,7 @@
+# pastas a serem ignoradas
+
 node_modules
 .next
+
+
+# ------------------------
